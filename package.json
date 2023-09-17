@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Welcome to the GitHub Actions Test Repository! This repository serves as a playground for experimenting with GitHub Actions to automate various tasks in your workflow.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "devStart": "nodemon index.js"
   },
