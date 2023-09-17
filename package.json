@@ -4,7 +4,7 @@
   "description": "Welcome to the GitHub Actions Test Repository! This repository serves as a playground for experimenting with GitHub Actions to automate various tasks in your workflow.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "devStart": "nodemon index.js"
   },
   "repository": {
     "type": "git",
