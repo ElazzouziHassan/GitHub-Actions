@@ -1,0 +1,26 @@
+{
+  "name": "git-actions",
+  "version": "1.0.0",
+  "description": "Welcome to the GitHub Actions Test Repository! This repository serves as a playground for experimenting with GitHub Actions to automate various tasks in your workflow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElazzouziHassan/git-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElazzouziHassan/git-actions/issues"
+  },
+  "homepage": "https://github.com/ElazzouziHassan/git-actions#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
